@@ -1,0 +1,6 @@
+@TareaDDD_HostAddress = http://localhost:5024
+
+GET {{TareaDDD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
